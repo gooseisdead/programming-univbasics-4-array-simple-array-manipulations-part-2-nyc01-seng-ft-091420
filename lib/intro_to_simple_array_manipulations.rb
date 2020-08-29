@@ -20,3 +20,4 @@ end
 
 def using_delete_at(array, string)
   famous_robots.delete_at("Robocop", 2)
+end
